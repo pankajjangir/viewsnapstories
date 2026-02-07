@@ -1,4 +1,5 @@
-# viewsnapstories
+# Snapchat Story and Profile viewer
+
 View and Download Snapchat Stories
 
 There are 4 tools available on the website:
