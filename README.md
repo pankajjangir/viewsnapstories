@@ -22,8 +22,8 @@ Is Snapchat Downn?: https://viewsnapstories.com/is-snapchat-down
 
 Blog: https://viewsnapstories.com/blog/
 
-Microsoft App: https://apps.microsoft.com/detail/9ngpv3k51nk3?referrer=appbadge&mode=full
+Microsoft App: https://apps.microsoft.com/detail/9ngpv3k51nk3
 
-Chrome Extension: https://chromewebstore.google.com/detail/djhhhheihmkiffhlhoaamjckhpggakgo?utm_source=item-share-cb
+Chrome Extension: https://chromewebstore.google.com/detail/djhhhheihmkiffhlhoaamjckhpggakgo
 
 Android App: https://play.google.com/store/apps/details?id=com.viewsnapstories.twa
