@@ -2,7 +2,7 @@
 
 View and Download Snapchat Story, Profile, Spotlight, Highlights.
 
-There are 4 tools available on the website:
+There are 8 tools available on the website:
 
 Snapchat Story Viewer: https://viewsnapstories.com
 
@@ -19,3 +19,11 @@ Snapcaht Username Finder: https://viewsnapstories.com/username-finder
 Snapchat Followers Count: https://viewsnapstories.com/snapchat-followers-count
 
 Is Snapchat Downn?: https://viewsnapstories.com/is-snapchat-down
+
+Blog: https://viewsnapstories.com/blog/
+
+Microsoft App: https://apps.microsoft.com/detail/9ngpv3k51nk3?referrer=appbadge&mode=full
+
+Chrome Extension: https://chromewebstore.google.com/detail/djhhhheihmkiffhlhoaamjckhpggakgo?utm_source=item-share-cb
+
+Android App: https://play.google.com/store/apps/details?id=com.viewsnapstories.twa
